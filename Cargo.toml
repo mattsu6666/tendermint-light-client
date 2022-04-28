@@ -16,7 +16,7 @@ chrono = { version = "0.4.11", features = ["serde"] }
 serde_derive = "1.0"
 subtle = "2.2"
 thiserror = "1.0.19"
-k256 = { version = "0.7.2", features = ["ecdsa"] }
+k256 = { version = "0.9.6", features = ["ecdsa"] }
 elliptic-curve = "0.8.4"
 ed25519-dalek = "1.0.1"
 ripemd160 = "0.8.0"
